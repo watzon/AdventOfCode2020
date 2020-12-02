@@ -10,3 +10,4 @@ the end I imaging I'll be pushing it a bit.
 | Day | Language |
 | --- | -------- |
 | 01  | C        |
+| 02  | C++      |
